@@ -57,3 +57,45 @@ C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\obj\Debug\net9.0\alg 3.sourcelink.jso
 C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\obj\Debug\net9.0\alg 3.dll
 C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\obj\Debug\net9.0\refint\alg 3.dll
 C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\obj\Debug\net9.0\alg 3.pdb
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\alg 3.exe
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\alg 3.deps.json
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\alg 3.runtimeconfig.json
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\alg 3.dll
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\alg 3.pdb
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\HarfBuzzSharp.dll
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\ScottPlot.dll
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\SkiaSharp.dll
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\SkiaSharp.HarfBuzz.dll
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-loongarch64\native\libSkiaSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libSkiaSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libSkiaSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-musl-loongarch64\native\libSkiaSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-musl-riscv64\native\libSkiaSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-riscv64\native\libSkiaSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\linux-x86\native\libSkiaSharp.so
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\obj\Debug\net9.0\alg 3.csproj.Up2Date
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\obj\Debug\net9.0\alg 3.genruntimeconfig.cache
+C:\Users\bobro\Desktop\lab\alg3\alg3\alg 3\obj\Debug\net9.0\ref\alg 3.dll
